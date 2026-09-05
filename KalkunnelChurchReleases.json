@@ -1,4 +1,5 @@
 {
-  "version_code": 1,
-  "apk_url": "https://github.com/jisngeorge/KalkunnelChurchReleases/releases/download/KalkunnelChurch-v1/KalkunnelChurch.apk"
+  "version_code": 2,
+  "apk_url": "https://github.com/jisngeorge/KalkunnelChurchReleases/releases/download/KalkunnelChurch-v2/KalkunnelChurch.apk",
+  "severity": "required"
 }
